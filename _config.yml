@@ -13,11 +13,11 @@ title                    : "cdflint.github.io"
 title_separator          : "-"
 name                     : "Carl Flint"
 description              : "Everything happens somewhere."
-url                      : "https://cdflint.github.io/mmistakes-blog/"
+url                      : "https://cdflint.github.io/mmistakes-blog"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cdflint/mmistakes-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-theme                    : minimal-mistakes-jekyll
+# theme                    : minimal-mistakes-jekyll
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
