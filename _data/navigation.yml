@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://cdflint.github.io/
   - title: "CV"
-    url: https://cdflint.github.io/#cv/
+    url: https://cdflint.github.io/#cv
   - title: "Leaflet Map"
-    url: https://cdflint.github.io/#map/
+    url: https://cdflint.github.io/#map
   - title: "Esri Leaflet Demo"
     url: https://cdflint.github.io/leafletDemo/
   - title: "Sample code"
