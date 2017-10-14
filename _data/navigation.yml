@@ -1,14 +1,16 @@
 # main links
 main:
   - title: "Home"
-    url: https://cdflint.github.io/
-  - title: "Blog Splash"
-    url: /splash-page/    
+    url: /splash-page/
+  - title: "Blog Posts"
+    url: /
+  - title: "Posts by tag"
+    url: /tags/
   - title: "CV"
     url: https://cdflint.github.io/#cv
   - title: "Leaflet Map"
     url: https://cdflint.github.io/#map
   - title: "Esri Leaflet Demo"
     url: https://cdflint.github.io/leafletDemo/
-  - title: "Sample code"
-    url: https://cdflint.github.io/arcpy-wizardry/
+  # - title: "Sample code"
+  #   url: https://cdflint.github.io/arcpy-wizardry/
