@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash # single, archive, home, splash, default, compress, archive-taxonomy
       author_profile: true
       read_time: true
       comments: # true

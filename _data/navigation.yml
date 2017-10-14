@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: https://cdflint.github.io/
+  - title: "Blog Splash"
+    url: /splash-page/    
   - title: "CV"
     url: https://cdflint.github.io/#cv
   - title: "Leaflet Map"
